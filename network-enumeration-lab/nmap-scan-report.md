@@ -11,6 +11,16 @@ Command Executed
 nmap -sV -sC -A <target-IP>
 Summary of Findings
 
+Example Findings (Lab Simulation)
+
+* Port 21 – FTP service detected
+
+* Port 22 – SSH service detected
+
+* Port 80 – HTTP web server detected
+
+* Service version information gathered
+
 Identified multiple open ports
 
 Detected running services and versions
@@ -19,8 +29,7 @@ Observed potential attack surface
 
 Security Risk
 
-Exposed services increase the attack surface and may allow unauthorized access if not properly secured.
-
+Exposed services increase the attack surface and may allow attackers to identify vulnerable software versions that can be exploited.
 Mitigation Recommendations
 
 Disable unnecessary services
