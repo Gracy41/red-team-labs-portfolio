@@ -36,4 +36,4 @@ This portfolio demonstrates a full offensive security workflow:
 
 6. Root privilege confirmation
 
-Security risk analysis and mitigation recommendations
+7. Security risk analysis and mitigation recommendations
