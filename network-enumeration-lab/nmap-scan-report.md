@@ -1,3 +1,4 @@
+![nmap-scan png](https://github.com/user-attachments/assets/e45f6bd8-34bc-4909-a685-9b79815ca5ec)
 Network Enumeration Lab – Nmap
 Objective
 
