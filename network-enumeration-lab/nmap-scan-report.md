@@ -9,6 +9,7 @@ Nmap
 
 Command Executed
 nmap -sV -sC -A <target-IP>
+
 Summary of Findings
 
 Example Findings (Lab Simulation)
